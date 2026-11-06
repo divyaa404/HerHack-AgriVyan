@@ -213,5 +213,3 @@ AgriVyaan/
 <p align="center">
   🌱 <b>AgriVyaan</b> — Bringing precision agriculture to every farmer, everywhere.
 </p>
-#   H e r H a c k - A g r i V y a n  
- 
