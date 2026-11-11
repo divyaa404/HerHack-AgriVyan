@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="web_application/public/assets/about/banner.gif" alt="AgriVyaan Banner" width="100%" />
 </p>
